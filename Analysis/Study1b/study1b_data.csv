@@ -1,0 +1,127 @@
+ID,attention,condition,condition_dum,rank_1,rank_2,rank_3,rank_4,rank_5,rank_6,rank_7,rank_8,rank_9,rank_10,rank_11,rank_12,rank_13,rank_14,rank_15,rank_16,rank_17,rank_18,EGA_1_1,EGA_2_1,EGA_3_1,EGA_4_1,EGA_5_1,EGA_6_1,EGA_7_1,EGA_8_1,EGA_9_1,EGA_10_1,EGA_11_1,state,city,age,gender,gender_3_TEXT,race,race_16_TEXT,education,comments,PROLIFIC_PID
+1,4,Saturday,0,8,17,5,2,1,3,6,10,11,18,14,4,16,12,9,15,7,13,7,1,1,1,1,1,1,7,7,1,1,GA,Pembroke,26,2,,1,,5,,61077d5108965addf35b519e
+2,4,Tuesday,1,17,18,16,1,3,2,6,4,8,15,14,5,13,9,12,11,10,7,7,3,2,2,2,2,3,7,7,5,2,PA,Philadelphia,21,1,,1,,3,,61003c2003503aa8e90b6a31
+3,4,Tuesday,1,17,16,5,3,2,1,12,6,14,8,13,4,10,15,18,11,9,7,7,2,2,2,2,2,2,4,7,2,2,VA,Virginia Beach,25,2,,1,,6,,60fe1e2e185eb1dfc03e422e
+4,4,Saturday,0,1,3,2,5,4,6,9,13,18,8,10,17,16,11,7,14,12,15,2,7,4,7,7,7,6,7,6,3,3,WI,Appleton,45,1,,"2,3",,3,,5e5165d2f1ecb418da9c2db7
+5,4,Saturday,0,9,8,5,1,4,2,3,14,17,12,11,6,15,13,7,10,16,18,6,2,2,2,3,1,5,6,6,3,4,CALIFORNIA,SAN JOSE,39,2,,"1,2",,4,,5beb6415feaa4a000164e011
+6,4,Tuesday,1,12,8,4,5,3,2,6,18,14,13,9,1,11,7,15,10,16,17,7,1,4,1,1,1,1,7,7,1,1,NY,Buffalo,33,1,,1,,3,,6337c2c21e350de4df1661bf
+7,4,Saturday,0,17,18,8,1,2,3,9,16,10,13,14,4,15,12,7,11,6,5,7,1,1,1,1,1,1,4,7,1,1,MA,Lowell,23,1,,1,,5,"For some clarification on how I answered the question of how men and women (assuming heterosexual parents) should contribute to household income--ultimately, the gender of the breadwinner(s) isn't relevant. In this day and age, it might not be financially feasible for just one parent to have a significant job, so the question becomes a moot point. However, if one parent must stay at home with children, or one parent happens to make less money for whatever reason, it does not matter to me what the gender of the parent is. This is why I gave a neutral response: it might be the best option for one parent to not contribute as much to finances for reasons that aren't gendered.",60c15eb37d3334f63a66dcd4
+8,2,Saturday,0,18,12,2,4,1,3,6,8,7,13,15,5,9,11,17,14,10,16,5,2,1,2,1,1,1,6,7,1,3,or,Eugene,19,2,,"1,4",,3,,60fda99552159c0689423ae4
+9,4,Saturday,0,18,15,17,1,2,3,4,12,8,5,6,9,14,11,16,7,13,10,7,1,4,1,1,4,4,7,7,4,4,Illinois,Alton,29,1,,1,,3,,5d812a70a723e0001a683dac
+10,4,Tuesday,1,16,17,18,3,6,2,1,9,10,13,8,4,11,5,15,14,12,7,7,1,1,1,1,2,4,4,7,1,2,AR,Little Rock,33,2,,1,,8,,60fe0e3c62944add47d0688a
+11,4,Tuesday,1,15,7,11,2,1,4,3,8,12,16,14,5,18,9,6,10,17,13,6,2,2,2,3,2,2,5,7,4,4,Colorado,Colorado Springs,37,2,,1,,6,"I think that if children do end up suffering from having a man as their primary caregiver, the problem originates not from an inherent ability of men to care for children, but because men haven't been socialized in a way to manage the running of the household in the ways that women have, so they might not be as good at it. ",5dceeba4144b510411fb4566
+12,4,Saturday,0,1,2,4,18,17,5,16,14,13,12,7,11,6,15,3,10,9,8,7,1,1,1,1,3,6,5,7,1,2,MA,Natick,36,2,,1,,7,,5bde3d1a3ec77c0001bddc37
+13,4,Saturday,0,6,4,16,2,1,7,3,18,8,10,17,12,13,14,15,9,11,5,5,1,3,4,2,1,4,4,7,4,1,California,San Luis Obispo,25,2,,1,,4,,60fed8cc5550124f8935f7b0
+14,4,Tuesday,1,18,17,16,11,3,2,9,7,4,6,13,1,12,10,14,5,15,8,4,5,2,4,2,5,3,4,6,5,3,DE,Wilmington,35,1,,1,,5,,5a726e526fc3c60001f976bb
+15,4,Tuesday,1,18,17,4,1,3,2,12,11,10,13,8,9,14,6,7,16,15,5,6,1,1,1,2,3,6,7,7,4,4,PA,York,25,2,,"1,3",,5,,5d2e4fd16adc630018df841c
+16,4,Tuesday,1,7,17,15,2,1,5,6,11,3,14,13,4,9,16,12,8,18,10,6,2,2,2,2,4,4,4,6,4,4,Virginia,Hampton,46,2,,"1,3",,8,,5b954f10754b700001f06bf0
+17,4,Saturday,0,11,18,1,3,6,2,5,15,9,10,17,4,7,16,13,14,8,12,6,1,2,1,3,2,2,7,7,2,2,FL,Palm Coast,50,2,,1,,5,,60043e449262c21e955273f2
+18,4,Tuesday,1,11,12,15,1,17,4,3,16,9,6,18,2,10,14,7,13,8,5,7,1,1,1,1,1,1,7,7,1,1,washington,bellevue,64,2,,1,,7,,602084a1e5330d6c7ad1d17e
+19,4,Saturday,0,15,8,1,5,6,3,2,13,7,16,17,4,11,18,9,12,10,14,6,2,1,1,4,1,1,4,7,1,1,MN,Minneapolis,29,3,,3,,5,,5e4085c59eec8d2c93937bff
+20,4,Saturday,0,14,5,6,1,3,2,7,17,15,9,13,4,10,18,8,11,12,16,6,5,4,3,4,5,6,6,6,4,5,Ma,watertown,53,1,,3,,5,,580bea98827ca10001db514e
+21,4,Tuesday,1,11,13,12,2,1,4,3,16,15,7,17,5,14,6,10,9,18,8,1,7,1,7,4,6,1,1,4,6,6,Texas,Houston,34,2,,1,,6,,5edaf0abba14031b7899eb3f
+22,2,Saturday,0,16,12,17,1,4,2,3,7,6,15,14,5,18,8,13,10,11,9,6,5,1,4,3,1,3,7,7,5,3,CA,Riverside,25,1,,16,Romani,2,,62cc9a938512898953c46e71
+23,4,Saturday,0,7,9,6,1,2,5,8,14,16,12,10,3,11,18,4,13,17,15,6,1,1,2,1,1,1,7,7,1,4,CO,Denver,23,3,Nonbinary,1,,5,,5aea770657e9440001f8033a
+24,4,Tuesday,1,18,16,17,1,2,3,5,9,6,14,7,4,13,10,15,12,11,8,7,1,1,1,1,2,6,4,5,2,2,TX,Fort Worth,35,2,,1,,5,,55883e4bfdf99b4021921d15
+25,4,Saturday,0,11,7,6,2,1,3,4,15,16,13,18,5,17,8,14,12,9,10,7,1,1,1,1,3,6,4,7,2,1,Ohio,Cincinnati,19,2,,1,,3,,616870f3f5785e447dd90a2f
+26,4,Tuesday,1,6,5,3,1,2,4,12,17,11,10,16,8,9,15,7,14,18,13,7,1,1,2,1,4,1,6,7,2,1,California,San Diego,27,1,,1,,4,,5c888f3ba869d400019acb49
+27,4,Tuesday,1,17,16,18,2,1,3,4,7,10,8,14,5,9,11,15,12,13,6,3,5,5,4,4,2,1,6,7,4,4,Maryland,Silver Spring,78,2,,1,,5,,6070d0fc38690d2898db0875
+28,4,Tuesday,1,2,3,1,7,6,8,5,17,14,12,11,4,10,15,9,13,18,16,2,6,1,6,3,4,5,4,6,6,5,FL,,39,1,,"1,2,16",Middle Eastern,8,,60ae54561666056b2558ba4d
+29,4,Saturday,0,9,1,2,3,15,4,14,18,11,17,16,6,13,10,5,8,12,7,6,3,1,1,1,3,4,7,7,7,7,Florida,Boynton Beach,24,1,,1,,2,Jesus is King,5e30cbc9c0bdcc0da3a7517b
+30,4,Tuesday,1,16,17,18,2,1,3,4,8,6,13,14,5,15,9,12,10,11,7,7,1,1,1,1,1,1,6,6,4,1,Louisiana,Carencro,35,2,,1,,5,,5a4a7bed1950a80001e7d3d5
+31,4,Saturday,0,14,15,5,6,1,2,4,16,10,12,13,3,9,18,7,11,8,17,6,1,1,1,1,1,5,5,7,4,1,Missouri,Kansas City,42,2,,1,,4,,60b088283f529f44ae7ccd37
+32,4,Saturday,0,2,1,3,6,5,7,8,17,9,13,14,4,10,16,11,12,18,15,7,2,2,1,2,2,6,7,7,5,5,KY,Hazard,41,2,,1,,6,,61118ff82b2d79342765a2f3
+33,4,Saturday,0,17,16,5,1,3,4,2,12,9,8,7,6,14,15,18,10,11,13,7,3,1,3,1,6,7,7,7,6,5,Illinois,Chicago,23,2,,1,,5,,60fd60e7587e4f2e860338b4
+34,2,Saturday,0,17,12,5,1,4,8,6,16,3,14,10,2,13,18,15,11,7,9,7,1,4,2,4,2,4,4,7,2,1,MO,Kansas City,25,2,,1,,5,,6010e0dab98c814912076b27
+35,4,Tuesday,1,11,8,14,2,12,4,13,16,17,15,10,1,7,9,5,18,3,6,4,4,4,4,4,4,4,4,4,4,4,Illinois,Western Springs,22,1,,1,,5,,5d14e8b5bc2e6f001b048c50
+36,4,Saturday,0,7,6,8,1,2,3,4,16,10,12,14,5,15,13,9,18,11,17,6,3,1,2,1,4,4,6,7,2,2,California,Hemet,51,2,,1,,3,,6234f3b76898c3f34402935c
+37,4,Tuesday,1,16,6,15,5,11,1,3,10,18,12,7,2,8,9,17,13,4,14,4,2,2,3,2,2,2,4,4,2,2,Indiana,Kendallville,23,2,,1,,3,,596c36966956b40001c59d4e
+38,2,Tuesday,1,3,4,9,1,8,6,7,17,11,10,16,2,12,15,5,14,13,18,5,3,2,3,2,2,6,5,6,6,3,CA,San Leandro,35,1,,4,,5,,62c5bc2f8a2f9e18f2ac0a13
+39,4,Tuesday,1,9,2,8,1,4,3,6,12,5,7,17,13,11,15,10,16,18,14,7,1,1,2,2,3,5,7,7,2,1,illinois,aurora,34,2,,1,,5,,6277cfc36a7df487202fe926
+40,1,Tuesday,1,3,1,15,7,18,6,5,16,17,13,12,14,11,10,2,4,8,9,4,6,3,6,4,4,6,4,5,4,5,TX,dallas,23,1,,1,,5,,6119d9f5a882080ef1c9e9e6
+41,1,Saturday,0,1,2,9,7,5,6,4,15,18,11,12,10,3,16,8,13,14,17,7,3,1,2,1,4,6,4,7,6,4,Washington,Kennewick,32,2,,1,,5,No comments.,5b847cdbe611ff0001c326b3
+42,4,Saturday,0,8,6,9,5,1,3,2,4,16,10,11,14,18,12,17,13,7,15,7,3,1,2,1,1,5,4,7,3,1,ca,na,55,2,,1,,4,,5d92832f82e59d001a0e7f1b
+43,2,Saturday,0,12,8,6,2,3,1,5,16,13,14,15,4,11,18,7,10,9,17,7,1,1,1,1,1,1,6,7,1,1,California,Sacramento,31,1,,"1,3",,4,,6362d090c79c76bc94a90032
+44,4,Saturday,0,18,16,17,5,4,2,1,7,8,15,14,6,13,3,10,9,11,12,7,1,2,1,2,2,5,5,7,4,2,IL,Chicago,24,2,,"1,2",,5,,610871d42f29bee3bd9f2c88
+45,4,Tuesday,1,8,16,15,2,1,5,3,12,10,14,13,4,6,7,9,18,17,11,6,1,1,1,1,1,2,5,6,1,1,IL,West Chicago,31,1,,1,,3,,60345f1a6f41922a712a186e
+46,4,Saturday,0,7,4,5,10,2,1,13,18,15,8,12,3,14,9,17,11,6,16,6,1,1,1,1,2,4,7,7,2,2,FL,Miami,31,1,,"1,2",,5,,6043001e416c7828f58c6c22
+47,4,Saturday,0,11,10,12,1,3,4,2,13,5,18,14,7,8,17,9,16,15,6,7,1,1,1,1,1,1,4,7,1,1,Washington,Kirkland,29,2,,1,,2,,60179276e6b0ba9f53339b8c
+48,4,Saturday,0,6,7,8,2,1,3,4,16,15,10,12,5,11,18,9,14,13,17,4,3,3,4,3,4,6,4,7,6,4,Indiana,Spiceland,64,2,,1,,5,,5ecbe5e254cc883c02f52be8
+49,4,Tuesday,1,11,12,6,1,3,2,5,7,10,18,13,4,9,16,14,17,8,15,1,1,1,1,1,1,1,1,1,1,1,Texas,San Antonio,29,1,,"1,2",,5,,6117217f6c1964b5c4b49493
+50,4,Tuesday,1,17,16,18,1,3,2,11,7,5,12,13,4,14,6,15,9,8,10,6,2,1,3,2,3,4,4,5,6,5,FLORIDA,Jacksonville,34,2,,1,,4,,6107088428de1480e9588e38
+51,4,Tuesday,1,17,15,1,2,5,3,14,7,18,16,12,4,13,9,8,11,6,10,7,1,1,1,1,1,1,4,7,4,4,Maryland,Hampstead,29,2,,2,,5,,5e100b4114ae63714171234d
+52,4,Tuesday,1,18,16,17,2,3,1,12,6,4,13,10,8,15,11,14,9,5,7,7,1,1,2,1,3,5,5,7,4,2,IL,Aurora,69,1,,1,,6,"I think at least part time work is better for most people's sanity. Most want to feel like they are contributing, but our society so devalues staying at home that it's hard to believe your contribution is equal.  In the age of Covid, I think that children being educated at home by a parent is much more valuable (or forming small ""pods"")  It's hard to overcome the socialization that the man should have a job. That belief is there a lot for both sexes.  And there's the pure economics of getting by on one salary, especially these days with inflation out of control.",57bf14513c449a000189c89a
+53,4,Saturday,0,7,5,6,1,2,4,3,13,17,9,16,18,15,12,8,10,11,14,7,2,2,2,2,4,4,6,7,3,3,PA,Philadelphia,32,2,,1,,6,,60fee6b26d66c814c4f3a5b4
+54,4,Saturday,0,17,10,15,1,2,4,3,8,7,11,13,6,18,5,12,16,9,14,7,1,1,1,1,1,1,7,7,1,1,texas,tyler,19,1,,"1,10",,3,,62a2a5d41e5f1eabcd2e3775
+55,2,Tuesday,1,2,3,5,1,4,13,18,12,7,9,16,6,11,17,10,15,8,14,7,1,1,1,1,2,4,7,7,2,2,Illinois,Downers Grove,72,2,,1,,6,,5e246a245e04db6e93e22666
+56,3,Saturday,0,1,2,15,16,5,3,10,18,12,6,13,17,4,14,9,8,7,11,7,1,1,1,1,1,4,7,7,4,1,California,South Pasadena,37,1,,4,,7,,612d20ea1043719545f90f62
+57,4,Tuesday,1,8,9,12,1,11,2,10,6,7,16,18,14,5,4,3,17,13,15,1,4,4,1,1,1,7,7,4,4,4,New Jersey,Elizabeth,24,1,,2,,5,,5dc1a1d0a4b6ac1091f0f4c2
+58,4,Tuesday,1,18,7,17,1,6,4,3,11,2,12,14,5,13,8,10,16,15,9,6,1,1,1,2,2,5,5,6,3,2,Tennessee,Memphis,27,2,,4,,5,,62b3a686e595d35def336fe1
+59,4,Tuesday,1,8,18,9,1,2,3,4,10,6,15,16,5,17,7,12,11,14,13,4,5,2,3,4,5,5,5,6,5,5,Florida,Citrus Springs,75,1,,1,,5,,5f5bf9beef06253d2b621fc3
+60,4,Saturday,0,18,15,4,2,3,1,11,6,8,16,13,5,17,7,12,10,14,9,7,2,1,3,1,1,3,5,7,4,1,NV,Pahrump,54,2,,"1,10",,5,,577d4c7a454e5400015f16c9
+61,4,Tuesday,1,18,17,16,1,2,3,4,7,10,8,12,5,6,9,14,15,13,11,7,1,1,1,1,1,2,7,7,2,1,DC,Washington,30,2,,1,,6,,5b0029933c08a1000156662c
+62,4,Tuesday,1,1,2,4,6,5,7,8,18,14,11,12,3,10,16,15,13,9,17,7,1,1,1,1,1,1,7,7,1,1,Missouri,Union,25,1,,1,,2,,5f13958f0576a62394421a92
+63,4,Saturday,0,8,6,7,1,2,5,4,17,11,14,12,3,15,18,9,13,10,16,4,5,3,4,3,5,6,6,6,4,5,Pennsylvania,State College,31,1,,1,,5,,5962ceff8474920001bd266e
+64,4,Saturday,0,12,14,7,1,3,2,11,15,18,9,8,6,4,13,16,5,10,17,7,1,1,1,1,1,1,6,7,3,2,GA,Carrollton,46,2,,1,,3,,61084e45d53567348ae45e57
+65,4,Saturday,0,5,3,10,17,9,2,4,13,11,8,6,18,12,16,1,7,14,15,5,5,5,3,3,5,4,5,6,5,4,California,San Jose,20,1,,1,,3,,62e4b6f21f7c164777c6eb67
+66,4,Saturday,0,18,1,2,4,8,14,13,7,3,9,12,5,10,15,11,6,17,16,7,2,1,2,1,1,1,7,7,1,1,SC,Wagener,34,2,,1,,3,,5e8eab0540aaf41584d9b1b9
+67,4,Tuesday,1,6,12,1,10,11,14,3,13,17,8,4,2,15,16,7,9,18,5,6,3,3,2,2,3,6,6,6,2,3,Maryland,Cockeysville,37,1,,1,,5,,5623f187ed6e5a0011c81083
+68,4,Tuesday,1,17,15,16,3,1,4,2,10,8,9,11,5,13,6,18,7,14,12,7,1,1,1,1,1,4,4,7,1,1,Florida,Deltona,46,2,,1,,5,,57864b074d107800016db4db
+69,4,Saturday,0,16,17,7,1,2,3,8,9,6,18,14,5,13,4,12,15,11,10,7,1,1,1,1,1,4,7,7,1,1,FL,Orlando,58,2,,1,,5,none,5c79475f54c5d600165fc357
+70,2,Saturday,0,18,6,5,1,3,2,12,14,13,9,17,4,11,15,8,7,10,16,4,5,2,6,2,3,4,4,7,3,4,CA,Oceanside,39,1,,1,,5,,62969e75002e34651e9b1ff9
+71,2,Tuesday,1,8,4,6,1,5,3,2,14,15,10,11,7,12,17,16,9,13,18,6,3,3,3,3,5,6,5,7,7,6,Florida,Orlando,34,2,,3,,3,,631780ffdc06e4d6d4a8aa2d
+72,4,Tuesday,1,10,4,5,1,2,3,17,12,8,7,14,11,6,18,9,16,15,13,6,1,1,1,1,2,5,6,7,1,1,California,San Jose,63,2,,1,,5,"I think the assumption here was that Michael was a stay-at-home dad, when he could also have had a full-time job and just had Tuesdays off. ",612d72360bdd67930d3f85fa
+73,4,Saturday,0,16,1,12,3,5,15,2,14,17,13,8,9,7,11,4,6,10,18,7,1,1,2,1,5,4,5,7,1,1,NJ,West ORagne,33,2,,1,,5,,5fa315662ca5b25d05ae8236
+74,4,Tuesday,1,12,11,3,1,2,7,6,14,5,16,17,4,9,18,10,15,13,8,5,3,2,5,2,4,3,4,7,3,3,CA,Elk Grove,45,2,,1,,3,,5e059d716f6c63fd5191beca
+75,4,Saturday,0,18,16,17,3,4,1,2,9,10,13,7,6,15,5,14,11,12,8,5,3,2,3,3,3,3,4,6,2,3,texas,denton,24,1,,"1,2",,3,,5ab942eca3ba7a0001b41f88
+76,4,Tuesday,1,4,3,9,1,2,10,15,7,6,14,17,12,11,8,5,16,18,13,7,2,2,2,2,5,6,5,7,6,6,Florida,Orlando,20,2,,1,,2,,60fcc8ce381d5a4a9269d737
+77,4,Tuesday,1,16,17,18,3,1,2,4,8,9,11,7,5,10,13,14,15,6,12,7,1,1,1,1,1,1,4,7,1,1,vermont,manchester,21,2,,1,,3,,608053940562cc47e9c63c4f
+78,4,Saturday,0,5,2,6,16,15,14,9,13,11,3,7,1,12,18,4,8,17,10,7,5,3,3,3,2,6,2,7,4,4,TX,Keene,25,1,,4,,5,,62dea78824188316a2ee17b6
+79,4,Saturday,0,18,17,16,1,2,3,9,10,6,5,8,4,12,11,15,7,14,13,7,1,1,1,1,4,6,4,6,1,1,MO,Blue Springs,29,1,,1,,3,,62fd86ae7c7fbcb2c2d31583
+80,4,Tuesday,1,16,17,18,3,5,1,12,10,4,7,8,6,9,11,15,13,2,14,6,3,2,1,2,4,4,1,7,3,3,D.C.,"Washington, D.C.",21,2,,3,,5,,6105ee031124e737d478e40d
+81,4,Tuesday,1,18,17,14,4,3,2,13,6,10,12,9,1,16,5,15,7,8,11,6,2,1,1,1,1,3,4,7,3,2,SC,Anderson,42,2,,4,,5,,5a4fab63eedc32000141ec5c
+82,4,Tuesday,1,7,4,17,12,3,1,10,8,11,9,15,2,18,14,5,16,6,13,7,1,1,1,1,1,4,7,7,1,1,NY,BROOKLYN,26,1,,1,,5,,6306d39340264f76753706fd
+83,4,Tuesday,1,17,18,5,1,3,2,15,6,10,11,12,4,9,14,16,13,8,7,7,1,1,1,1,4,4,4,7,1,1,IL,Chicago,28,2,,1,,5,,612663bde6ce751fe1a166ab
+84,4,Tuesday,1,15,16,18,2,3,1,4,5,7,11,9,17,14,8,13,10,12,6,6,1,1,2,1,2,2,4,6,1,1,Connecticut,Portland,47,2,,1,,6,,623a5bb1b15d26b9c926a90b
+85,4,Tuesday,1,14,7,10,5,2,1,4,16,11,15,13,3,18,12,6,8,17,9,6,3,1,2,2,2,4,4,7,2,2,WV,,50,2,,1,,6,,61267fe88fba42b5f3b9c9ea
+86,4,Tuesday,1,5,9,11,1,8,2,10,16,7,4,12,15,3,14,6,18,13,17,6,2,1,2,1,1,1,4,7,2,1,FL,NEW PORT RICHEY,29,2,,1,,5,have a nice holiday,5f42f33216548e5291508e33
+87,2,Saturday,0,9,16,12,1,2,3,4,10,6,14,13,5,17,7,8,18,15,11,7,1,1,1,1,5,4,4,7,1,4,KY,Versailles,51,2,,1,,3,,5ba1096e22fbd400013ed0da
+88,4,Saturday,0,12,13,3,4,1,2,15,16,7,8,17,6,14,18,5,11,9,10,7,1,1,2,1,3,1,6,7,4,1,Virginia,Charlottesville,25,1,,1,,3,,5f342a35aea7432daf29219d
+89,4,Saturday,0,17,18,14,2,4,1,3,7,5,15,11,6,16,10,9,13,12,8,6,3,3,3,3,4,4,5,6,4,4,NY,NYC,39,2,,"1,4,10",,5,,608349d97d46ab71fc6c7111
+90,1,Saturday,0,10,5,8,7,1,3,4,9,13,18,17,2,12,6,14,15,16,11,6,3,3,2,4,1,3,4,6,2,4,CA,Alhambra,27,1,,4,,5,,5a6fa677c2eb6c00017e042e
+91,4,Tuesday,1,18,17,15,1,2,4,12,5,11,14,13,3,10,6,16,8,9,7,7,1,1,1,1,4,7,7,7,7,1,ohio,Hilliard,49,2,,1,,3,,637a883f72a9ef2f366aec91
+92,4,Tuesday,1,6,13,16,5,4,1,3,11,9,15,8,2,12,14,7,18,17,10,7,1,1,1,1,1,1,7,7,1,1,MI,Waterford,24,2,,1,,5,,5e84bae38e665407f3c99d22
+93,4,Tuesday,1,12,14,6,1,2,4,3,10,11,13,7,5,15,16,17,18,8,9,5,6,1,5,1,7,6,4,7,6,7,Oklahoma,Okmulgee,28,2,,1,,5,,611ec5fe0070d440148881e1
+94,4,Tuesday,1,18,13,4,2,1,3,14,7,8,10,16,5,15,12,9,11,17,6,4,5,2,4,3,5,5,4,6,6,5,MA,Revere,44,2,,1,,3,,629bcd92a63c65d4b4786290
+95,4,Tuesday,1,17,16,18,2,3,1,5,10,8,13,15,4,14,7,12,9,11,6,7,1,1,1,1,1,1,1,7,1,1,New Mexico,Las Cruces,70,2,,1,,3,,5ded9996838b4f45b83bb3f9
+96,2,Tuesday,1,3,9,2,5,1,11,10,13,14,15,8,12,17,18,6,7,4,16,4,2,2,4,2,1,4,6,7,2,2,Vermont,South Burlington,33,1,,1,,5,,5a4afdd835c9d50001fdd1c0
+97,4,Saturday,0,1,7,3,12,5,6,2,15,10,14,9,4,13,17,16,18,11,8,6,3,2,2,2,4,6,6,7,5,4,missouri,Columbia,44,1,,1,,7,na,62f197476f43c60e212a98c3
+98,4,Saturday,0,5,7,10,2,1,8,6,14,16,12,4,3,9,17,15,11,13,18,7,1,1,1,1,1,3,7,7,3,3,Arizona,Phoenix,24,2,,1,,2,,60d5aea939b90bd4fbdc4251
+99,4,Tuesday,1,3,4,9,2,1,5,6,12,7,11,14,8,13,16,10,18,15,17,7,1,1,1,1,2,4,7,7,3,2,LA,Lafayette,36,1,,1,,2,,55a43278fdf99b02ff6caf89
+100,4,Saturday,0,11,4,5,6,3,7,1,10,16,14,15,2,9,13,8,17,12,18,6,2,2,2,2,2,5,7,7,1,1,Iowa,Sioux City,26,2,,1,,5,I enjoyed your survey. Thank you and good luck with your research! ,5d3c660793eb2d00017880db
+101,4,Saturday,0,7,5,6,1,3,2,4,15,13,17,10,12,16,9,8,14,11,18,4,4,4,4,6,4,7,4,7,4,4,NY,New York,33,1,,3,,5,,5726570ef2a83f000f6aea6d
+102,4,Saturday,0,8,15,7,6,9,11,1,12,18,3,2,4,10,17,5,13,14,16,7,2,1,2,1,2,2,1,7,4,3,New Mexico,Las Cruces,68,2,,1,,3,,5ac2dce4436f550001ffc1fc
+103,4,Saturday,0,17,2,14,1,6,7,5,18,3,15,12,11,4,9,8,13,16,10,7,1,1,1,1,4,4,7,7,4,4,Virginia,Hampton,46,2,,1,,2,,5db48b4d14dab8000de45fdf
+104,4,Saturday,0,5,1,10,9,6,2,8,11,14,4,18,3,13,12,7,15,17,16,6,2,2,2,2,2,2,5,7,2,3,New York,Jackson Heights,34,1,,1,,4,,636150837df0c4177e194d8c
+105,4,Saturday,0,8,5,4,1,3,9,2,14,6,12,10,7,16,13,17,11,18,15,6,3,1,2,1,2,4,6,7,4,4,West Virginia,Barboursville,45,1,,1,,8,,5e6d915ba20e47358d14e376
+106,4,Tuesday,1,1,2,3,7,5,11,6,17,18,9,13,10,8,16,4,12,15,14,6,4,2,5,2,4,5,4,6,5,5,PA,Shillington,60,2,,1,,2,,62dea723c6db0370fd6c8229
+107,4,Tuesday,1,18,9,11,1,8,3,10,12,2,7,13,4,6,15,5,16,17,14,5,2,3,4,2,5,4,5,7,4,4,pennsylvania,pittsburgh,70,2,,1,,3,none,582afed4ce3a0e00010b3245
+108,4,Saturday,0,15,3,4,1,2,10,5,14,9,8,13,6,11,18,7,17,16,12,7,1,1,1,1,1,4,6,7,1,1,ca,ventura,39,1,,1,,1,,55b53384fdf99b2b69c82509
+109,4,Tuesday,1,17,10,4,6,2,1,7,9,5,15,16,3,11,18,14,13,12,8,5,4,2,4,2,4,6,4,6,4,2,MO,Springfield,47,2,,1,,3,"There are a lot of ""It depends"" answers.",5b257a0fbee7c80001f4a0c1
+110,4,Tuesday,1,13,18,15,4,2,1,5,12,10,17,16,3,6,7,11,14,8,9,7,1,1,1,1,1,2,4,7,1,1,NC,Winston-Salem,40,2,,1,,5,,5e33194f7d541f035c91e3b4
+111,4,Tuesday,1,12,6,15,1,3,2,5,11,7,17,9,4,13,10,8,18,14,16,7,1,1,1,1,3,2,4,7,1,1,Washington,Tacoma,37,3,Non-binary,1,,3,A family dynamic is not limited to men and women.,6300a8230671f0e8b0a7b0f4
+112,4,Tuesday,1,9,8,6,2,3,1,5,12,16,10,17,4,18,14,7,13,15,11,7,1,1,1,1,1,1,1,7,1,1,Pennsylvania,Philadelphia,36,3,Nonbinary,"2,3",,6,,5dd6b5720f8d5163ac1e876e
+113,4,Saturday,0,1,2,4,7,6,5,8,11,15,17,14,10,16,9,3,12,18,13,6,2,2,1,2,2,7,6,7,7,2,GA,Gainesville,70,1,,1,,7,great study,601b75077aa0425330b81e36
+114,4,Saturday,0,1,5,8,3,6,2,13,14,12,10,11,4,9,17,7,18,15,16,3,1,1,2,3,2,6,6,7,6,4,Michigan,Troy,24,1,,3,,6,,61731c0ef27028acbfbbf972
+115,4,Saturday,0,12,7,6,1,2,3,4,17,14,10,9,5,11,18,8,15,13,16,7,3,1,4,2,5,6,4,6,5,4,GA,Marietta,66,1,,1,,4,"Regarding the questions - a LOT depends on the couple.  My wife and I both worked full-time while raising our son, but we prioritized him in our off-time.  As a result we had, and still have, a very close relationship with him.
+
+But not all parents would do so, for a myriad of reasons. I know of one couple where the dad actively dislikes being a parent because it takes away from his time.  Seems to me like if you're a parent, you need to put your feelings aside for a bit because your child can't wait.  A baby doesn't care if you want to play CoD or GTA - it knows what it wants, it NEEDS it right then.
+
+I was brought up by parents who grew up in the Depression and were very 'hands off' when I would have liked to have been closer with them.  (Call it 'emotionally isolated'.)  So I decided to do things different as a dad, and I'm happy with the results.  I prioritized family over work quite a few times, but my boss was okay with me doing that because I didn't abuse the privilege.
+
+This was an interesting survey.  Thank you!",62ffe399d769a8e595609133
+116,4,Saturday,0,11,10,2,6,1,4,3,18,12,8,16,5,9,15,17,13,14,7,6,1,1,1,1,4,3,2,5,2,1,Nc,southern Pines,21,2,,3,,2,,60c566e8aba6a80dffdb1a8e
+117,4,Saturday,0,2,3,1,5,6,7,4,14,16,11,10,8,15,18,9,13,12,17,2,6,5,6,6,4,6,2,6,6,6,Texas,Seguin,42,1,,16,Mixed,5,None at this time.,62ad17e032a85a4ca119b289
+118,4,Tuesday,1,9,8,17,1,4,3,5,14,13,16,18,2,10,15,6,7,11,12,3,6,1,7,4,1,6,2,7,6,7,OH,Greenville,31,2,,1,,2,I understood everything being asked of me. Thank you!,5d67476c0ca617001699fe7a
+119,4,Tuesday,1,17,18,16,3,2,1,5,10,7,13,11,4,14,12,15,9,6,8,5,4,2,4,1,5,4,4,6,2,2,PA,Oil City,50,1,,"1,10",,5,,5f0d2ad60ad0d6730c380b05
+120,4,Saturday,0,9,10,11,1,3,2,5,12,13,18,16,4,17,15,8,7,14,6,6,2,2,2,1,2,4,4,7,4,2,MA,Boston,37,1,,1,,7,,5f4af15a0add63150e16e55a

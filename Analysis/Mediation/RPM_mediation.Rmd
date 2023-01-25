@@ -1,0 +1,120 @@
+---
+title: "RPM_mediation"
+author: "Kelsey Neuenswander"
+date: "2/22/2022"
+output: html_document
+---
+```{r, message=FALSE, echo=FALSE, warning=FALSE}
+library(multilevel)
+library(lattice)
+library(foreign)
+library(lme4)
+library(mlmRev)
+library(plyr)
+library(car)
+library(psych)
+library(ggplot2)
+library(QuantPsyc)
+library(tidyr)
+library(dplyr)
+library(nlme)
+library(optimx)
+library(ggplot2)
+library(grid)
+library(gridExtra)
+library(mosaic)
+library(pastecs)
+library(sjPlot)
+# load mediation package
+library(mediation)
+library(lavaan)
+options(scipen=999)
+```
+
+```{r, echo = F}
+library(knitr)
+library(formatR)
+opts_chunk$set(tidy.opts=list(width.cutoff=70),tidy=TRUE)
+```
+
+**Load Data**
+```{r}
+data <- read.csv('/Users/kelse/Documents/UCLA/Projects/RPM/Analysis/Mediation/mediation.csv', header=TRUE)
+```
+
+**Factor**
+```{r}
+# test condition
+data$cond <- factor(data$cond)
+
+# participant ID
+data$id <- factor(data$id)
+
+# study
+data$study_dum <- as.factor(data$study_dum)
+
+# target gender
+data$targ.gend <- as.factor(data$targ.gend)
+
+# day of week
+data$day <- as.factor(data$day)
+```
+
+# Seperate Father and Mother Data
+```{r}
+mom.data <- data %>% filter(targ.gend == 'mother')
+dad.data <- data %>% filter(targ.gend == 'father')
+```
+
+#Test Multiple mediators FATHERS (IV: day of week, study_dum, DVS: warmth and competence, Mediators: Ideal, Feminine, Masculine, Earner)
+```{r}
+# warmth and comp separate
+# masc fem separate
+# IVs day of week and study
+
+m1 <- '
+ideal ~ 1 + a1*day + c1*study_dum
+feminine ~ 1 + a2*day + c2*study_dum
+masculine ~ 1 + a3*day + c3*study_dum
+earner ~ 1 + a4*day + c4*study_dum
+
+feminine ~~ masculine
+ideal ~~ earner
+feminine ~~ earner
+masculine ~~ earner
+
+warmth ~ 1 + b1*ideal + b2*feminine + b3*masculine + b4*earner + day 
+competence ~ 1 + d1*ideal + d2*feminine + d3*masculine + d4*earner + day
+
+# indirect effects
+day.ideal.ie.warmth := a1*b1
+day.feminine.ie.warmth := a2*b2
+day.masculine.ie.warmth := a3*b3
+day.earner.ie.warmth := a4*b4
+day.ideal.ie.comp := a1*d1
+day.feminine.ie.comp := a2*d2
+day.masculine.ie.comp := a3*d3
+day.earner.ie.comp := a4*d4
+
+study.ideal.ie.warmth := c1*b1
+study.feminine.ie.warmth := c2*b2
+study.masculine.ie.warmth := c3*b3
+study.earner.ie.warmth := c4*b4
+study.ideal.ie.comp := c1*d1
+study.feminine.ie.comp := c2*d2
+study.masculine.ie.comp := c3*d3
+study.earner.ie.comp := c4*d4
+
+'
+
+m1fit <- sem(m1, data=dad.data, se='bootstrap')
+summary(m1fit, fit.measures=TRUE, standardize=TRUE, rsquare=TRUE, estimates = TRUE, ci = TRUE)
+modindices(m1fit)
+```
+
+
+
+
+
+
+
